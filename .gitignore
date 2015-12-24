@@ -1,0 +1,4 @@
+LogitechLcdEnginesWrapper.dll
+*.pyc
+build
+.komodotools
